@@ -1,0 +1,5 @@
+compilar:
+g++ nomedoarquivo.cpp -o executavel
+
+executar:
+./nomedoarquivo
