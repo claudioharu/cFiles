@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1478442333 source:/home/laila/Desktop/classeLista/list.cpp
+	"lista.h"
+
+1478440037 /home/laila/Desktop/classeLista/lista.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1478442317 source:/home/laila/Desktop/classeLista/main.cpp
+	<iostream>
+	"lista.h"
+
